@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OnTime</string>
+    <string name="about">onTime v1.0</string>
+    <string name="copyright">© Agnitt, 2020</string>
+    <string name="key_sound">enable_sound</string>
+    <string name="cbp_title_sound">Enable sound</string>
+    <string name="lp_title_melodies">Timer melody</string>
+</resources>

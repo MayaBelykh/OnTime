@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorTimerStart">#D81B60</color>
+    <color name="colorTimerStop">#5555BB</color>
+    <color name="colorTimerProgressLine">#44FFFFFF</color>
+
+</resources>

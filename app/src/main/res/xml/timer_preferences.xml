@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="@string/key_sound"
+        android:summaryOff="Sound disabled"
+        android:summaryOn="Sound enabled"
+        android:title="@string/cbp_title_sound" />
+    <ListPreference
+        android:defaultValue="gong"
+        android:entries="@array/pref_timer_melody_labels"
+        android:entryValues="@array/pref_timer_melody_values"
+        android:key="timer_melody"
+        android:title="@string/lp_title_melodies" />
+    <EditTextPreference
+        android:defaultValue="60"
+        android:key="default_interval"
+        android:title="Default interval" />
+</PreferenceScreen>

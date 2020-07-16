@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pref_timer_melody_labels">
+        <item>Banjo</item>
+        <item>Single bell</item>
+        <item>Bells</item>
+        <item>Drop</item>
+        <item>Gong</item>
+        <item>Duck</item>
+        <item>Shot</item>
+    </array>
+    <array name="pref_timer_melody_values">
+        <item>banjo</item>
+        <item>bell</item>
+        <item>bells</item>
+        <item>drop</item>
+        <item>gong</item>
+        <item>krjakva</item>
+        <item>shot</item>
+    </array>
+
+</resources>
